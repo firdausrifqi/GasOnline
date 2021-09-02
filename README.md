@@ -1,3 +1,3 @@
-# Project Gas Online for KP
+# Project Gas Online Untuk KP
 
-An online shopping website for purchase of merchandise.  
+Pembelian / Pemesanan Gas secara Online
